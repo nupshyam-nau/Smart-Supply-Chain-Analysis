@@ -1,0 +1,51 @@
+Supplier_ID,Supplier_Name,Supplier_Rating,Supplier_Location
+SUP001,DHL Supply Chain,4.5,Jaipur
+SUP002,Kuehne+Nagel,3.9,Pune
+SUP003,DSV,4.7,Jaipur
+SUP004,CEVA Logistics,4.4,Mumbai
+SUP005,GXO Logistics,3.2,Ahmedabad
+SUP006,UPS Supply Chain Solutions,5.0,Ahmedabad
+SUP007,Nippon Express,4.5,Ahmedabad
+SUP008,FedEx Logistics,4.6,Kolkata
+SUP009,Maersk Logistics,3.3,Hyderabad
+SUP010,C.H. Robinson,3.9,Ahmedabad
+SUP011,Expeditors,3.7,Delhi
+SUP012,Sinotrans,4.9,Ahmedabad
+SUP013,J.B. Hunt,4.3,Chennai
+SUP014,SNCF Geodis,4.6,Hyderabad
+SUP015,Rhenus Logistics,3.9,Chennai
+SUP016,DP World Logistics,3.5,Chennai
+SUP017,Dachser,4.1,Mumbai
+SUP018,Total Quality Logistics,3.1,Pune
+SUP019,Ryder,4.7,Delhi
+SUP020,Kintetsu World Express,4.3,Pune
+SUP021,LX Pantos,4.5,Hyderabad
+SUP022,Bolloré Logistics,3.7,Kolkata
+SUP023,Hellmann Worldwide Logistics,4.9,Kolkata
+SUP024,Kerry Logistics,4.8,Hyderabad
+SUP025,Yusen Logistics,4.6,Jaipur
+SUP026,Logisteed,3.4,Chennai
+SUP027,Kerry Supply Chain Solutions,3.9,Mumbai
+SUP028,Fiege Logistics,3.1,Ahmedabad
+SUP029,Aramex,3.3,Chennai
+SUP030,Agility Logistics,4.4,Kolkata
+SUP031,DB Schenker,4.5,Chennai
+SUP032,JAS Worldwide,4.9,Chennai
+SUP033,Toll Group,3.7,Mumbai
+SUP034,Mainfreight,3.7,Chennai
+SUP035,Lineage Logistics,3.9,Ahmedabad
+SUP036,Americold Logistics,3.4,Bengaluru
+SUP037,Wincanton,3.3,Kolkata
+SUP038,Ewals Cargo Care,4.0,Mumbai
+SUP039,GEODIS,3.5,Bengaluru
+SUP040,ID Logistics,4.3,Hyderabad
+SUP041,Kuehne Logistics University,3.9,Nagpur
+SUP042,Panalpina,4.7,Delhi
+SUP043,UTi Worldwide,4.4,Delhi
+SUP044,Ceva Contract Logistics,3.6,Hyderabad
+SUP045,Ryder Supply Chain Solutions,4.7,Nagpur
+SUP046,XPO Logistics,4.6,Jaipur
+SUP047,J.B. Hunt Transport Services,3.8,Mumbai
+SUP048,Werner Enterprises,3.6,Delhi
+SUP049,Coyote Logistics,4.4,Jaipur
+SUP050,NFI Industries,3.3,Mumbai
