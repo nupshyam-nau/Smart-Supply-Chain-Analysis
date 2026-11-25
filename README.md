@@ -49,7 +49,7 @@ The dataset includes the following categories:
 | Business Metrics | Delivery_Cost, Delay_Hours, Customer_Priority |
 | Status | Disruption_Status |
 
-## 🐍 Python – Data Cleaning & Exploratory Data Analysis
+## Python – Data Cleaning & Exploratory Data Analysis
 
 Python is used to clean, transform and analyze the shipment dataset.
 
@@ -84,7 +84,7 @@ Python is used to clean, transform and analyze the shipment dataset.
 - Route Risk Score
 - Transportation Efficiency Metric
 
-## 🗄️ MySQL – Database & SQL Analysis
+## MySQL – Database & SQL Analysis
 
 MySQL is used to store structured shipment data and perform analytical queries.
 
@@ -118,7 +118,7 @@ MySQL is used to store structured shipment data and perform analytical queries.
 - What are the top 10 high-risk routes?
 - Which suppliers have the highest reliability?
 
-## 📊 Power BI – Interactive Dashboard
+## Power BI – Interactive Dashboard
 
 Power BI serves as the primary business intelligence and visualization tool for the project.
 
@@ -159,7 +159,7 @@ The dashboard is organized into five analytical pages:
 - Holiday Comparison
 - Delay Distribution
 
-## 🌐 Streamlit – Interactive Data Explorer
+## Streamlit – Interactive Data Explorer
 
 A simple Streamlit application is developed to provide an interactive interface for exploring shipment records.
 
@@ -174,7 +174,7 @@ A simple Streamlit application is developed to provide an interactive interface 
 
 The Streamlit application complements the Power BI dashboard by providing a simple way to explore individual shipment records.
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Load the raw shipment dataset using Python.
 2. Perform data cleaning and validation.
@@ -190,7 +190,7 @@ The Streamlit application complements the Power BI dashboard by providing a simp
 12. Validate important results across Python, MySQL, Power BI and Streamlit.
 13. Prepare final business insights and recommendations.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Smart_Supply_Chain_Data_Analyst_Project/
@@ -218,7 +218,7 @@ Smart_Supply_Chain_Data_Analyst_Project/
 └── README.md
 ```
 
-## 💡 Expected Business Insights
+## Expected Business Insights
 
 This project aims to identify meaningful patterns that can help improve supply chain operations.
 
@@ -229,7 +229,7 @@ This project aims to identify meaningful patterns that can help improve supply c
 - Identify unusual shipment, delay and cost patterns.
 - Support better supplier, route and transportation decisions through data-driven insights.
 
-## ▶️ Running the Streamlit Application
+## Running the Streamlit Application
 
 **Step 1: Clone the repository**
 
@@ -257,14 +257,14 @@ streamlit run streamlit_app/app.py
 
 The application will open in your default web browser.
 
-## 👥 Project Team
+## Project Team
 
 This is a collaborative Data Analyst project developed by:
 
 1. Neha Upshyam
 2. Ayush Junankar
 
-## 📌 Project Scope
+## Project Scope
 
 This project focuses on Data Analytics and Business Intelligence using Python, MySQL, Power BI and Streamlit.
 
